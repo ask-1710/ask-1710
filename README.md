@@ -21,6 +21,8 @@ Here are some projects that I'd love to share with you 😄
 <!-- - 🔭 I’m currently working a project with GraphQL API and React as frontend -->
 🌱 I’m currently learning to build API's with GraphQL 
 
+📘 I'm currently preparing for the AWS Solutions Architect Associate certification
+
 👯 I’m looking to collaborate on creating course materials that will be useful for B.E. CSE students(esp lab questions)
 
 🔭 I’m looking for a full time/part time job as an SDE/SWE/FSE
