@@ -19,9 +19,9 @@ Here are some projects that I'd love to share with you 😄
 
 
 <!-- - 🔭 I’m currently working a project with GraphQL API and React as frontend -->
-🌱 I’m currently learning to build API's with GraphQL 
+🌱 I’m currently learning to build API's with GraphQL and scrape websites using Python
 
-📘 I'm currently preparing for the AWS Solutions Architect Associate certification
+<!-- 🕴️ I'm currently working on the website for aggregating all available women-only oppurtunities through web scraping -->
 
 👯 I’m looking to collaborate on creating course materials that will be useful for B.E. CSE students(esp lab questions)
 
