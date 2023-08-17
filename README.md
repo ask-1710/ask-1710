@@ -19,7 +19,9 @@ Here are some projects that I'd love to share with you 😄
 
 
 <!-- - 🔭 I’m currently working a project with GraphQL API and React as frontend -->
-🌱 I’m currently learning to build API's with GraphQL and scrape websites using Python
+<!-- 🌱 I’m currently learning to build API's with GraphQL and scrape websites using Python -->
+
+📰 I'm preparing for the AWS Solutions Architect Associate Exam
 
 <!-- 🕴️ I'm currently working on the website for aggregating all available women-only oppurtunities through web scraping -->
 
@@ -33,5 +35,5 @@ Here are some projects that I'd love to share with you 😄
 
 😄 Pronouns: She/her 👧
 
-⚡ Fun fact: I love to dress up and create new mehendi designs 💅
+⚡ Fun fact: I am a trained Indian classical dancer and love choreography 💃
 
